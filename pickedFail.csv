@@ -18,37 +18,37 @@ os-basic,oe_test_system_monitor_login,x86 fail,https://github.com/KotorinMinami/
 os-basic,oe_test_system_monitor_reboot,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_monitor_reboot/2023-04-28-03:40:46.log,x86 fail,1, 
 os-basic,oe_test_uname,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_uname/2023-04-28-03:40:18.log,x86 fail,1, 
 os-basic,oe_test_whereis,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_whereis/2023-04-28-03:29:34.log,x86 fail,1, 
-os-basic,oe_test_accessdb,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_accessdb/2023-04-28-03:37:05.log,preinstall absent,1, 
-os-basic,oe_test_aureport,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_aureport/2023-04-28-10:26:13.log,timeout,1, 
-os-basic,oe_test_awk,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_awk/2023-04-28-03:34:31.log,,1, 
-os-basic,oe_test_c++,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_c++/2023-04-28-03:32:15.log,file missing,1, 
-os-basic,oe_test_chsh,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_chsh/2023-04-28-10:56:22.log,,1, 
-os-basic,oe_test_count_gperftools_function,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_count_gperftools_function/2023-04-28-10:58:54.log,file missing,1, 
-os-basic,oe_test_disk_graphics_card,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_graphics_card/2023-04-28-10:05:30.log,file missing,1, 
-os-basic,oe_test_disk_io_sched,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_io_sched/2023-04-28-10:24:32.log,preinstall absent,1, 
-os-basic,oe_test_disk_schedule_specific,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_schedule_specific/2023-04-28-08:31:35.log,,1, 
-os-basic,oe_test_disk_schedule_udev,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_schedule_udev/2023-04-28-08:32:02.log,preinstall absent,1, 
-os-basic,oe_test_ethtool,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_ethtool/2023-04-28-08:42:35.log,file missing,1, 
-os-basic,oe_test_expect,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_expect/2023-04-28-10:21:46.log,,1, 
-os-basic,oe_test_fuse,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_fuse/2023-04-28-03:35:43.log,,1, 
-os-basic,oe_test_gmp,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_gmp/2023-04-28-10:18:16.log,file missing,1, 
-os-basic,oe_test_hostnamectl,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_hostnamectl/2023-04-28-09:16:05.log,,1, 
-os-basic,oe_test_kernel_kdump,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_kernel_kdump/2023-04-28-09:16:35.log,preinstall absent,1, 
-os-basic,oe_test_kernel_module_operation,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_kernel_module_operation/2023-04-28-09:51:53.log,kernel module absent,1, 
-os-basic,oe_test_lastb,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_lastb/2023-04-28-10:25:56.log,,1, 
-os-basic,oe_test_libffi,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_libffi/2023-04-28-10:19:24.log,file missing,1, 
-os-basic,oe_test_net_VRF,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_net_VRF/2023-04-28-09:56:52.log,,1, 
-os-basic,oe_test_net_cmd_scp,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_net_cmd_scp/2023-04-28-09:58:51.log,timeout,1, 
-os-basic,oe_test_nmcli_set_bond,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_nmcli_set_bond/2023-04-28-10:04:10.log,preinstall absent,1, 
-os-basic,oe_test_nmcli_set_team,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_nmcli_set_team/2023-04-28-10:06:10.log,,1, 
-os-basic,oe_test_power_measurement_internal,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_power_measurement_internal/2023-04-28-08:03:14.log,,1, 
-os-basic,oe_test_system_log_dmesg,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_log_dmesg/2023-04-28-04:12:53.log,,1, 
-os-basic,oe_test_system_log_view,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_log_view/2023-04-28-04:11:47.log,preinstall absent,1, 
-os-basic,oe_test_system_monitor_share_total,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_monitor_share_total/2023-04-28-10:05:14.log,,1, 
-os-basic,oe_test_who,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_who/2023-04-28-03:28:28.log,,1, 
-os-basic,oe_test_xmlsec,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_xmlsec/2023-04-28-10:22:18.log,file missing,1, 
-os-basic,oe_test_xzcmp,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_xzcmp/2023-04-28-11:10:16.log,,1, 
-os-basic,oe_test_zlib,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_zlib/2023-04-28-10:10:25.log,file missing,1, 
+os-basic,oe_test_accessdb,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_accessdb/2023-04-28-03:37:05.log,手动重测通过,1,桜風の狐
+os-basic,oe_test_aureport,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_aureport/2023-04-28-10:26:13.log,手动重测通过,1,桜風の狐
+os-basic,oe_test_awk,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_awk/2023-04-28-03:34:31.log,测试套问题，检查 cpuid 在 qemu riscv 失败,1,桜風の狐
+os-basic,oe_test_c++,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_c++/2023-04-28-03:32:15.log,镜像没有预装测试所需的 kernel-headers,1,桜風の狐
+os-basic,oe_test_chsh,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_chsh/2023-04-28-10:56:22.log,测试套问题，脚本需要测试环境默认语言为中文，且依赖 zsh,1,桜風の狐
+os-basic,oe_test_count_gperftools_function,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_count_gperftools_function/2023-04-28-10:58:54.log,测试套问题，没有引入依赖 gperftools-devel,1,桜風の狐
+os-basic,oe_test_disk_graphics_card,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_graphics_card/2023-04-28-10:05:30.log,x86 fail,1,桜風の狐
+os-basic,oe_test_disk_io_sched,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_io_sched/2023-04-28-10:24:32.log,bfq scheduler Invalid argument,1,桜風の狐
+os-basic,oe_test_disk_schedule_specific,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_schedule_specific/2023-04-28-08:31:35.log,bfq scheduler Invalid argument,1,桜風の狐
+os-basic,oe_test_disk_schedule_udev,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_disk_schedule_udev/2023-04-28-08:32:02.log,测试套问题， config_params 函数获取 wwid 失败,1,桜風の狐
+os-basic,oe_test_ethtool,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_ethtool/2023-04-28-08:42:35.log,镜像没有预装测试所需的 ethtool,1,桜風の狐
+os-basic,oe_test_expect,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_expect/2023-04-28-10:21:46.log,手动重测通过,1,桜風の狐
+os-basic,oe_test_fuse,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_fuse/2023-04-28-03:35:43.log,缺失内核模块 fuse ， nknown filesystem type 'fusectl',1,桜風の狐
+os-basic,oe_test_gmp,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_gmp/2023-04-28-10:18:16.log,镜像没有预装测试所需的 kernel-headers,1,桜風の狐
+os-basic,oe_test_hostnamectl,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_hostnamectl/2023-04-28-09:16:05.log,手动重测通过,1,桜風の狐
+os-basic,oe_test_kernel_kdump,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_kernel_kdump/2023-04-28-09:16:35.log,镜像没有预装 kexec-tools，也没有使用 grub 作为引导加载程序,1,桜風の狐
+os-basic,oe_test_kernel_module_operation,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_kernel_module_operation/2023-04-28-09:51:53.log,内核模块缺失 raid0,1,桜風の狐
+os-basic,oe_test_lastb,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_lastb/2023-04-28-10:25:56.log,测试套问题，脚本需要测试环境默认语言为中文,1,桜風の狐
+os-basic,oe_test_libffi,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_libffi/2023-04-28-10:19:24.log,镜像没有预装测试所需的 kernel-headers,1,桜風の狐
+os-basic,oe_test_net_VRF,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_net_VRF/2023-04-28-09:56:52.log,缺失内核模块 vrf ，导致 Unknown device type vrf,1,桜風の狐
+os-basic,oe_test_net_cmd_scp,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_net_cmd_scp/2023-04-28-09:58:51.log,手动重测通过,1,桜風の狐
+os-basic,oe_test_nmcli_set_bond,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_nmcli_set_bond/2023-04-28-10:04:10.log,nmcli 成功添加 bond 设备后无法用 nmcli device 命令查到也无法用 nmcli up 命令激活， Error: Connection activation failed: bond0 failed to create resources: Failed to create bond interface 'bond0' for 'bond0': Operation not supported,1,桜風の狐
+os-basic,oe_test_nmcli_set_team,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_nmcli_set_team/2023-04-28-10:06:10.log,nmcli 成功添加 team 设备后无法用 nmcli device 命令查到也无法用 nmcli up 命令激活， Error: Connection activation failed: team0 failed to create resources: Failed to create team master interface 'team0' for 'team0': Operation not supported,1,桜風の狐
+os-basic,oe_test_power_measurement_internal,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_power_measurement_internal/2023-04-28-08:03:14.log,受 qemu 运行速度影响，更改 SLEEP_WAIT 参数，手动重测通过,1,桜風の狐
+os-basic,oe_test_system_log_dmesg,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_log_dmesg/2023-04-28-04:12:53.log,"测试套问题， dmesg | grep -iE ""Booting Linux on physical CPU|smpboot"" 不适合 qemu riscv",1,桜風の狐
+os-basic,oe_test_system_log_view,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_log_view/2023-04-28-04:11:47.log,文件 /var/log/messages 不存在,1,桜風の狐
+os-basic,oe_test_system_monitor_share_total,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_monitor_share_total/2023-04-28-10:05:14.log,测试镜像环境不支持 bfq scheduler,1,桜風の狐
+os-basic,oe_test_who,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_who/2023-04-28-03:28:28.log,手动重测通过,1,桜風の狐
+os-basic,oe_test_xmlsec,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_xmlsec/2023-04-28-10:22:18.log,镜像没有预装测试所需的 kernel-headers,1,桜風の狐
+os-basic,oe_test_xzcmp,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_xzcmp/2023-04-28-11:10:16.log,测试套问题，脚本需要测试环境默认语言为中文,1,桜風の狐
+os-basic,oe_test_zlib,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_zlib/2023-04-28-10:10:25.log,镜像没有预装测试所需的 kernel-headers,1,桜風の狐
 iperf3,oe_test_iperf3_command_client,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/iperf3/oe_test_iperf3_command_client/2023-06-02-03:08:49.log,x86 fail,1, 
 iperf3,oe_test_iperf3_command_clientAndShared,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/iperf3/oe_test_iperf3_command_clientAndShared/2023-06-02-03:09:59.log,x86 fail,1, 
 iperf3,oe_test_iperf3_command_serverAndBase,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/iperf3/oe_test_iperf3_command_serverAndBase/2023-06-02-03:11:06.log,x86 fail,1, 
@@ -262,14 +262,14 @@ os-storage,oe_test_storage_vfat_mount_write,x86 fail,https://github.com/KotorinM
 os-storage,oe_test_storage_xfs_Increase_size,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_xfs_Increase_size/2023-04-28-10:28:36.log,x86 fail,1, 
 os-storage,oe_test_storage_xfs_backup,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_xfs_backup/2023-04-28-11:34:16.log,x86 fail,1, 
 os-storage,oe_test_storage_xfs_create,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_xfs_create/2023-04-28-11:23:07.log,x86 fail,1, 
-os-storage,oe_test_storage_Mutipath_configure_blacklist,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_blacklist/2023-04-28-07:19:57.log,kernel module absent,1, 
-os-storage,oe_test_storage_Mutipath_configure_defaults,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_defaults/2023-04-28-07:16:45.log,kernel module absent,1, 
-os-storage,oe_test_storage_Mutipath_configure_device,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_device/2023-04-28-06:54:06.log,kernel module absent,1, 
-os-storage,oe_test_storage_Mutipath_configure_section,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_section/2023-04-28-07:09:02.log,kernel module absent,1, 
-os-storage,oe_test_storage_Mutipath_mpathconf,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_mpathconf/2023-04-28-06:33:46.log,kernel module absent,1, 
-os-storage,oe_test_storage_Mutipath_various_fields,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_various_fields/2023-04-28-07:03:35.log,kernel module absent,1, 
-os-storage,oe_test_storage_Mutipath_view_info,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_view_info/2023-04-28-06:55:09.log,kernel module absent,1, 
-os-storage,oe_test_storage_lvm_set_regionsize,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_lvm_set_regionsize/2023-04-28-11:35:23.log,kernel module absent,1, 
+os-storage,oe_test_storage_Mutipath_configure_blacklist,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_blacklist/2023-04-28-07:19:57.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_Mutipath_configure_defaults,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_defaults/2023-04-28-07:16:45.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_Mutipath_configure_device,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_device/2023-04-28-06:54:06.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_Mutipath_configure_section,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_configure_section/2023-04-28-07:09:02.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_Mutipath_mpathconf,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_mpathconf/2023-04-28-06:33:46.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_Mutipath_various_fields,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_various_fields/2023-04-28-07:03:35.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_Mutipath_view_info,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_Mutipath_view_info/2023-04-28-06:55:09.log,内核模块缺失 dm_multipath,1,桜風の狐
+os-storage,oe_test_storage_lvm_set_regionsize,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-storage/oe_test_storage_lvm_set_regionsize/2023-04-28-11:35:23.log,内核模块缺失 dm-raid,1,桜風の狐
 patchutils,oe_test_patchutils_combinediff_01,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/patchutils/oe_test_patchutils_combinediff_01/2023-04-26-15:35:52.log,x86 fail,1, 
 patchutils,oe_test_patchutils_flipdiff_01,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/patchutils/oe_test_patchutils_flipdiff_01/2023-04-26-15:41:29.log,x86 fail,1, 
 patchutils,oe_test_patchutils_interdiff_01,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/patchutils/oe_test_patchutils_interdiff_01/2023-04-26-15:47:52.log,x86 fail,1, 
