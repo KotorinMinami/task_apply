@@ -1,23 +1,23 @@
 测试套/软件包名,测试用例名,状态,日志文件,原因,是否为baseOS,负责人
-os-basic,oe_test_auditctl,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_auditctl/2023-04-28-03:36:43.log,x86 fail,1, 
-os-basic,oe_test_catman,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_catman/2023-04-28-03:30:09.log,x86 fail,1, 
-os-basic,oe_test_dmraid,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_dmraid/2023-04-28-03:31:39.log,x86 fail,1, 
+os-basic,oe_test_auditctl,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_auditctl/2023-04-28-03:36:43.log,x86 fail,1,黄烁
+os-basic,oe_test_catman,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_catman/2023-04-28-03:30:09.log,x86 fail,1,黄烁
+os-basic,oe_test_dmraid,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_dmraid/2023-04-28-03:31:39.log,x86 fail,1,黄烁
 os-basic,oe_test_nmcli_config_connect,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_nmcli_config_connect/2023-04-28-08:12:59.log,x86 fail,1, 
 os-basic,oe_test_nmcli_macsec,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_nmcli_macsec/2023-04-28-08:10:38.log,x86 fail,1, 
-os-basic,oe_test_power_powertop2tuned_optimize,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_power_powertop2tuned_optimize/2023-04-28-07:59:24.log,x86 fail,1, 
-os-basic,oe_test_power_powertop_powerup,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_power_powertop_powerup/2023-04-28-07:56:45.log,x86 fail,1, 
+os-basic,oe_test_power_powertop2tuned_optimize,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_power_powertop2tuned_optimize/2023-04-28-07:59:24.log,x86 fail,1,黄烁
+os-basic,oe_test_power_powertop_powerup,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_power_powertop_powerup/2023-04-28-07:56:45.log,x86 fail,1,黄烁
 os-basic,oe_test_reboot,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_reboot/2023-04-28-05:55:16.log,x86 fail,1, 
 os-basic,oe_test_server_mariadb_compatibilty,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_mariadb_compatibilty/2023-04-28-04:54:41.log,x86 fail,1, 
-os-basic,oe_test_server_openssh_verifykey,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_openssh_verifykey/2023-04-28-04:29:21.log,x86 fail,1, 
-os-basic,oe_test_server_squid_blacklist,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_squid_blacklist/2023-04-28-04:25:29.log,x86 fail,1, 
+os-basic,oe_test_server_openssh_verifykey,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_openssh_verifykey/2023-04-28-04:29:21.log,x86 fail,1,黄烁
+os-basic,oe_test_server_squid_blacklist,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_squid_blacklist/2023-04-28-04:25:29.log,x86 fail,1,黄烁
 os-basic,oe_test_server_vsftpd_NKdelay,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_vsftpd_NKdelay/2023-04-28-04:18:57.log,x86 fail,1, 
 os-basic,oe_test_server_vsftpd_transfer,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_server_vsftpd_transfer/2023-04-28-04:13:38.log,x86 fail,1, 
-os-basic,oe_test_sos,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_sos/2023-04-28-05:25:07.log,x86 fail,1, 
-os-basic,oe_test_system_log_recorded,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_log_recorded/2023-04-28-04:12:23.log,x86 fail,1, 
+os-basic,oe_test_sos,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_sos/2023-04-28-05:25:07.log,x86 fail,1,黄烁
+os-basic,oe_test_system_log_recorded,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_log_recorded/2023-04-28-04:12:23.log,x86 fail,1,黄烁
 os-basic,oe_test_system_monitor_login,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_monitor_login/2023-04-28-04:11:08.log,x86 fail,1, 
 os-basic,oe_test_system_monitor_reboot,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_system_monitor_reboot/2023-04-28-03:40:46.log,x86 fail,1, 
-os-basic,oe_test_uname,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_uname/2023-04-28-03:40:18.log,x86 fail,1, 
-os-basic,oe_test_whereis,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_whereis/2023-04-28-03:29:34.log,x86 fail,1, 
+os-basic,oe_test_uname,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_uname/2023-04-28-03:40:18.log,x86 fail,1,黄烁
+os-basic,oe_test_whereis,x86 fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_whereis/2023-04-28-03:29:34.log,x86 fail,1,黄烁
 os-basic,oe_test_accessdb,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_accessdb/2023-04-28-03:37:05.log,手动重测通过,1,桜風の狐
 os-basic,oe_test_aureport,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_aureport/2023-04-28-10:26:13.log,手动重测通过,1,桜風の狐
 os-basic,oe_test_awk,fail,https://github.com/KotorinMinami/res_list/blob/master/mugen-riscv/logs/os-basic/oe_test_awk/2023-04-28-03:34:31.log,测试套问题，检查 cpuid 在 qemu riscv 失败,1,桜風の狐
