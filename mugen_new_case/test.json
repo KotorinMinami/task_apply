@@ -1,0 +1,124 @@
+{
+    "env": [
+        {
+            "type": "host",
+            "name": "host_1",
+            "ip": "127.0.0.1",
+            "password": "openEuler12#$",
+            "port": "22",
+            "user": "root"
+        }
+    ],
+    "combination": [
+        {
+            "name": "mugen_test",
+            "testcases": [
+                {
+                    "testsuite": "FS_FileSystem",
+                    "add": [
+                        "oe_test_FSIO_create_squashfs"
+                    ]
+                },
+                {
+                    "testsuite": "hdf5",
+                    "add": [
+                        "oe_test_hdf5_01"
+                    ]
+                },
+                {
+                    "testsuite": "PackageKit",
+                    "add": [
+                        "oe_test_packagekit_pkcon"
+                    ]
+                },
+                {
+                    "testsuite": "acl",
+                    "add": [
+                        "oe_test_acl_delete_acl",
+                        "oe_test_acl_dir_write",
+                        "oe_test_acl_dir_read"
+                    ]
+                },
+                {
+                    "testsuite": "fontconfig",
+                    "add": [
+                        "oe_test_fontconfig_fc-list"
+                    ]
+                },
+                {
+                    "testsuite": "kernel",
+                    "add": [
+                        "oe_test_hpsa"
+                    ]
+                },
+                {
+                    "testsuite": "libksba",
+                    "add": [
+                        "oe_test_libksba"
+                    ]
+                },
+                {
+                    "testsuite": "os-basic",
+                    "add": [
+                        "oe_test_rev",
+                        "oe_test_uid_old_uid",
+                        "oe_test_python3-kmod",
+                        "oe_test_lsscsi_1"
+                    ]
+                },
+                {
+                    "testsuite": "os-storage",
+                    "add": [
+                        "oe_test_storage_btrfs_002"
+                    ]
+                },
+                {
+                    "testsuite": "protobuf-c",
+                    "add": [
+                        "oe_test_protobuf-c_01"
+                    ]
+                },
+                {
+                    "testsuite": "smoke-basic-os",
+                    "add": [
+                        "oe_test_mke2fs"
+                    ]
+                },
+                {
+                    "testsuite": "xz",
+                    "add": [
+                        "oe_test_xz_xz_01",
+                        "oe_test_xz_xz_02",
+                        "oe_test_xz_xz_03",
+                        "oe_test_xz_xz_04",
+                        "oe_test_xz_unxz_01",
+                        "oe_test_xz_unxz_02",
+                        "oe_test_xz_unxz_03",
+                        "oe_test_xz_unxz_04",
+                        "oe_test_xz_xzcat_01",
+                        "oe_test_xz_xzcat_02",
+                        "oe_test_xz_xzcat_03",
+                        "oe_test_xz_xzcmp",
+                        "oe_test_xz_xzdec",
+                        "oe_test_xz_xzdiff_01",
+                        "oe_test_xz_xzdiff_02"
+                    ]
+                },
+                {
+                    "testsuite": "iSulad",
+                    "add": [
+                        "oe_test_iSulad_container"
+                    ]
+                }
+            ]
+        }
+    ],
+    "execute": [
+        {
+            "env": [
+                "host_1"
+            ],
+            "combination": "mugen_test"
+        }
+    ]
+}
